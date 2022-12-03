@@ -44,7 +44,8 @@ if (strChoice.strip() == '1'):
 Here, try/except statement had to be used to retrieve all data through pickle.load() function because the program does not know when to stop the while loop. The try/except allowed the program to only run until all of the data is retrieved from .dat file. 
 
 The following screenshot shows the error when try/except statement is not used:
- 
+![This is an image](./images/EOFError.png)
+
 This type of error handling is further explained in GeeksforGeeks’s article called Handling EOFERROR exception in Python.
 Also, the file.close() function was used outside the while loop because otherwise, the program would have repeatedly read the first line. Then every row was stored in wishList.
 
