@@ -87,7 +87,5 @@ There were a lot challenges I encountered while trying to use pickle functions (
 
 ### Works Cited
 - Dawson, M. (2010). Python programming for the absolute beginner: Michael Dawson. Course Technology Cengage Learning. 
-- Handling EOFERROR exception in Python. GeeksforGeeks. (2020, September 2). Retrieved November 30, 2022, from https://www.geeksforgeeks.org/handling-eoferror-exception-in-python/ 
+- Handling EOFERROR exception in Python. GeeksforGeeks. (2020, September 2). Retrieved November 30, 2022, from https://www.geeksforgeeks.org/handling-eoferror-exception-in-python/. 
 - Root, Randal. _Mod7PythonProgrammingNotes. Microsoft Docs. Retrieved November 29, 2022.
-
-
