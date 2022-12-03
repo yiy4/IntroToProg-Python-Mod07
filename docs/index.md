@@ -80,13 +80,13 @@ else:
 ```
 The rest of the script was similar to ones used in previous assignments. The ‘Q’ option allows for users to exit the program, while any other input notifies users that they need to type options that are given. Here pass was used instead of break because loop was not used.
 
-##Conclusion
+## Conclusion
 There were a lot challenges I encountered while trying to use pickle functions (load and dump) within classes and definitions. In the future, with more time, I would like to explore options utilizing loops and functions similar to Assignment 6.
 
 
-Works Cited
-Dawson, M. (2010). Python programming for the absolute beginner: Michael Dawson. Course Technology Cengage Learning. 
-Handling EOFERROR exception in Python. GeeksforGeeks. (2020, September 2). Retrieved November 30, 2022, from https://www.geeksforgeeks.org/handling-eoferror-exception-in-python/ 
-Root, Randal. _Mod7PythonProgrammingNotes. Microsoft Docs. Retrieved November 29, 2022.
+### Works Cited
+- Dawson, M. (2010). Python programming for the absolute beginner: Michael Dawson. Course Technology Cengage Learning. 
+- Handling EOFERROR exception in Python. GeeksforGeeks. (2020, September 2). Retrieved November 30, 2022, from https://www.geeksforgeeks.org/handling-eoferror-exception-in-python/ 
+- Root, Randal. _Mod7PythonProgrammingNotes. Microsoft Docs. Retrieved November 29, 2022.
 
 
