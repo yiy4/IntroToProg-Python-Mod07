@@ -1,1 +1,1 @@
-This is a folder for image files.
+### This is a folder for image files.
