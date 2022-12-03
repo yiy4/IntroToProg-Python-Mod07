@@ -79,7 +79,8 @@ else:
     pass
 ```
 The rest of the script was similar to ones used in previous assignments. The ‘Q’ option allows for users to exit the program, while any other input notifies users that they need to type options that are given. Here pass was used instead of break because loop was not used.
-Conclusion
+
+##Conclusion
 There were a lot challenges I encountered while trying to use pickle functions (load and dump) within classes and definitions. In the future, with more time, I would like to explore options utilizing loops and functions similar to Assignment 6.
 
 
