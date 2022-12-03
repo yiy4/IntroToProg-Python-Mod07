@@ -1,4 +1,4 @@
-# Pickling with Exception Handling:christmas_tree::gift:
+# Pickling with Exception Handling
 ## Introduction
 Pickling is a method to save in and read from a binary file. In this assignment, pickle.load() and pickle.dump() were used to learn about how pickling process works.
 
